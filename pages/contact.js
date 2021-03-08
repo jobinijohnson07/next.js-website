@@ -15,16 +15,16 @@ font-size: 8rem;
 font-weight: 100;
 `
 
-export default function Home() {
+export default function Contact() {
   return (
     <>
       <Head>
-        <title>Home Page</title>
+        <title>About Page</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <Hero>
         <Heading>
-          NEXT
+          Contact
         </Heading>
       </Hero>
     </>
